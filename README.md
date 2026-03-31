@@ -7,6 +7,12 @@ The objective of this project was to identify, analyze, and exploit vulnerabilit
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in March 2026.
+
+---
+
 ## 🎯 Objectives
 - Identify open ports and running services
 - Detect vulnerabilities in the target system
